@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio Mora</h1>
 <h3 align="center">A passionate fullstack and blockhchain developer from México</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dokxo96&label=Profile%20views&color=0e75b6&style=flat" alt="dokxo96" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dokxo96" alt="dokxo96" /></a> </p>
-
+ 
 <p align="left"> <a href="https://twitter.com/dokxo_96" target="blank"><img src="https://img.shields.io/twitter/follow/dokxo_96?logo=twitter&style=for-the-badge" alt="dokxo_96" /></a> </p>
 
 - 🌱 I’m currently learning **Next.js,React Native,Spring**
