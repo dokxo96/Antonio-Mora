@@ -25,6 +25,8 @@
  
 <a href="https://platzi.com/p/dokxo96/curso/1557-git-github/diploma/detalle/" target="_blank"> <img src="https://static.platzi.com/media/achievements/badge-github-0b729570-934d-47d8-ba6b-610d7f15e0ec.png" alt="spring" width="40" height="40"/> </a> 
 <a href="https://platzi.com/p/danielmora96/curso/1872-teletrabajo-trabajo-remoto/diploma/detalle/" target="_blank"> <img src="https://static.platzi.com/media/achievements/badges-categorias-negocios-emprendimiento-1-90ace212-529a-4741-8a55-6a56d0d48f0f-b3.png" alt="remotework" width="40" height="40"/> </a> 
+<a href="https://platzi.com/p/danielmora96/curso/1944-estrategias-ingles/diploma/detalle/" target="_blank"> <img src=https://static.platzi.com/media/achievements/badge-aprender-ingles-online-a8141ccd-4aa3-4235-a897-5ad3a77fd6e8.png alt="Estrategias para Aprender Inglés" width="40" height="40"/> </a> 
+<a href="https://platzi.com/p/danielmora96/curso/1749-gestion-tiempo/diploma/detalle/" target="_blank"> <img src="https://static.platzi.com/media/achievements/badge-gestion-tiempo-5368aa24-4418-4e10-b6c3-c8775b849bf9.png" alt="remotework" width="40" height="40"/> </a> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dokxo96&show_icons=true&locale=en&layout=compact" alt="dokxo96" /></p>
 
