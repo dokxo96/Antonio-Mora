@@ -33,7 +33,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dokxo96&show_icons=true&locale=en" alt="dokxo96" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dokxo96&" alt="dokxo96" /></p>
-# [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
+# [GitHub Stats Visualization](https://github.com/dokxo96/github-stats)
 
 <a href="https://github.com/dokxo96/github-stats">
 
