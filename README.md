@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Antonio Mora</h1>
-<h3 align="center">A passionate fullstack and blockhchain developer from México</h3>
+<h3 align="center">A passionate fullstack developer from México</h3>
 
  
 <p align="left"> <a href="https://twitter.com/dokxo_96" target="blank"><img src="https://img.shields.io/twitter/follow/dokxo_96?logo=twitter&style=for-the-badge" alt="dokxo_96" /></a> </p>
 
-- 🌱 I’m currently learning **Rust,Solidity,Next.js,React ,Spring**
+- 🌱 I’m currently working as Software Engineer with **React and Spring**
 
-- 💬 Ask me about **Reactjs,Truffle suite,Blockchain,NTF's ,SmartContracts**
+- 💬 Ask me about **Java,Javascript,Reactjs,Jest,Cypress**
 
 - 📫 How to reach me **dokxo96@gmail.com**
 
